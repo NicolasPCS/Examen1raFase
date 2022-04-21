@@ -1,3 +1,6 @@
+// Autor: Nicolás Esleyder Caytuiro Silva
+// Fecha: 21/04/2022
+
 package com.example.examen1rafase.ui.pagos;
 
 import android.os.Bundle;

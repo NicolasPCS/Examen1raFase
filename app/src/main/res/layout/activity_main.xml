@@ -23,3 +23,6 @@
         app:headerLayout="@layout/nav_header_main"
         app:menu="@menu/activity_main_drawer" />
 </androidx.drawerlayout.widget.DrawerLayout>
+
+    <!--Autor: Nicolás Esleyder Caytuiro Silva-->
+    <!--Fecha: 21/04/2022-->

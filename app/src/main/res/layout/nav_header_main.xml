@@ -33,3 +33,6 @@
         android:layout_height="wrap_content"
         android:text="@string/nav_header_subtitle" />
 </LinearLayout>
+
+    <!--Autor: Nicolás Esleyder Caytuiro Silva-->
+    <!--Fecha: 21/04/2022-->

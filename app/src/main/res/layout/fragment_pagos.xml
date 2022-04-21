@@ -228,3 +228,6 @@
             tools:ignore="ImageContrastCheck" />
     </LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <!--Autor: Nicolás Esleyder Caytuiro Silva-->
+    <!--Fecha: 21/04/2022-->
