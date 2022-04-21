@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Examen1raFase</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Nicolás Esleyder Caytuiro Silva</string>
+    <string name="nav_header_subtitle">Universidad Católica de Santa María</string>
+    <string name="nav_header_desc">Examen Primera Fase</string>
+    <string name="action_settings">Configuración</string>
+
+    <string name="menu_home">Pizzas</string>
+    <string name="menu_gallery">Bebidas</string>
+    <string name="menu_slideshow">Pagos</string>
+</resources>
